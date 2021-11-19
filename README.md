@@ -1,4 +1,4 @@
 ### Hi there 👋
-Perkenalkan nama saya **Aziz Hilmy Haidar**.\
+Hello i'am **Aziz Hilmy Haidar**.
 
-Saya kuliah di Universitas Indraprasta PGRI
+now, i learn android
